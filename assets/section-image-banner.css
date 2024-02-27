@@ -351,6 +351,8 @@
 
 @media screen and (min-width: 750px) {
   .banner--desktop-transparent .banner__box {
+    display: flex;
+    gap: 20px;
     background: transparent;
     max-width: 89rem;
     border: none;
